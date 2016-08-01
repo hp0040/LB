@@ -1,0 +1,14 @@
+.wrapper {
+    background: red;
+}
+.wrapper h1 {
+    color: white;
+}
+.wrapper .main {
+    text-overflow: hidden;
+}
+.wrapper .abc {
+    padding: 10px;
+}
+
+/*# sourceMappingURL=style.css.map */
